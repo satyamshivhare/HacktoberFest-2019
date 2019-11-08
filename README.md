@@ -27,6 +27,12 @@ Then create your pull request.
 
 Congratulations!! You have successfully created your pull request.
 
+Also if you do not know how to use git bash or ssh then you can also edit the files just by downloading them as a zip files and then edit them. Then you can upload your edited files along with other files to github and then make a pull request. you will find download options after forking in the "clone or download" option in the green color ain your dashboard.
+
+Also you can edit the files directly in the github by opening those files and then clicking on the pen icon. then you can request for PR.
+
+Happy HACTOBERFEST TO YOU!!!!
+
 Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 
 Wait for your shirt.. Enjoy Coding.. Visit my reposities for furthur help
